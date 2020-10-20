@@ -1,0 +1,15 @@
+{
+    "name": "yono/introduce_composer",
+    "description": "import package to project",
+    "type": "project",
+    "require": {
+        "phpmailer/phpmailer": "^6.1",
+        "league/oauth2-google": "^3.0"
+    },
+    "authors": [
+        {
+            "name": "bandhot",
+            "email": "70566438+bandhot@users.noreply.github.com"
+        }
+    ]
+}

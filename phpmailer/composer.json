@@ -1,0 +1,15 @@
+{
+    "name": "yono/project_phpmailer",
+    "description": "tes phpmailer to server",
+    "type": "project",
+    "authors": [
+        {
+            "name": "bandhot",
+            "email": "koplaksetengah002@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.1",
+        "league/oauth2-google": "^3.0"
+    }
+}
